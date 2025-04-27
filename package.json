@@ -1,0 +1,26 @@
+{
+  "name": "@types/captchagen",
+  "version": "1.0.0",
+  "main": "",
+  "description": "TypeScript definitions for captchagen",
+  "license": "MIT",
+  "files": [
+    "index.d.ts"
+  ],
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Greensky-gs/types-captchagen.git"
+  },
+  "dependencies": {
+    "canvas": "^3.1.0"
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/Greensky-gs/types-captchagen/issues"
+  },
+  "keywords": [
+    "captchagen",
+    "types"
+  ]
+}
