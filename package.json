@@ -1,5 +1,5 @@
 {
-  "name": "@types/captchagen",
+  "name": "types-captchagen",
   "version": "1.0.0",
   "main": "",
   "description": "TypeScript definitions for captchagen",
